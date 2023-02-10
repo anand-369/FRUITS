@@ -43,8 +43,11 @@ This is a web based application developed for providing information related to f
 
 
 ### website
+![Screenshot (14)](https://user-images.githubusercontent.com/115984065/218142400-921ce599-2f51-498e-b8d4-b646785ebb72.png)
 
+![Screenshot (15)](https://user-images.githubusercontent.com/115984065/218142439-bb085ab3-5a35-4df8-902f-d1f427754fe9.png)
 
+![Screenshot (16)](https://user-images.githubusercontent.com/115984065/218142487-1730298d-acf0-413f-9416-fa4799b9b751.png)
 
 
 
