@@ -28,6 +28,7 @@ This is a web based application developed for providing information related to f
 ### azure technologies -
 ![azure services](https://user-images.githubusercontent.com/115984065/218024293-3c852302-fd68-4bf5-9df4-b1cccb093fff.jpg)
 ![static web apps](https://user-images.githubusercontent.com/115984065/218024394-74c7aaed-ca16-407b-b54d-a4b9d4713313.jpg)
+![healthbot a](https://user-images.githubusercontent.com/115984065/218025035-5b5b48e1-21c0-436b-8b36-8661a5844b34.png)
 
 
 ### health bot
