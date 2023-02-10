@@ -6,6 +6,7 @@ This is a web based application developed for providing information related to f
 
 
 **Project Link** - https://blue-stone-0d6e1aa00.2.azurestaticapps.net
+
 **project demo video link** - https://youtu.be/lXLOnKkpI5c
 
 ## Azure technologies used for Project
