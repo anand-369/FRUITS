@@ -44,10 +44,7 @@ This is a web based application developed for providing information related to f
 
 ### website
 
-![website](https://user-images.githubusercontent.com/115984065/218024567-aa8004ff-4354-4666-9c42-27d5d80ca22c.jpg)
 
-
-![website2](https://user-images.githubusercontent.com/115984065/218024574-906a5429-523b-4665-a55b-0d0a6098ed53.jpg)
 
 
 
