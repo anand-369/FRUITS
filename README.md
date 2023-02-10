@@ -25,8 +25,7 @@ This is a web based application developed for providing information related to f
 
 ## screenshots
 
-![divya2](https://user-images.githubusercontent.com/115984065/218109430-cf0c8f08-0e64-41e1-be18-d2e4773cff37.png)
-![divya](https://user-images.githubusercontent.com/115984065/218109452-2a92a98e-4b62-4ede-a0f4-8cb353aadbf4.png)
+
 
 
 ### azure technologies -
