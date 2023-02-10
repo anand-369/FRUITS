@@ -49,7 +49,7 @@ This is a web based application developed for providing information related to f
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/115984065/218142487-1730298d-acf0-413f-9416-fa4799b9b751.png)
 
-![Screenshot (16)](https://user-images.githubusercontent.com/115984065/218143127-90508524-2217-4139-a376-73b41a446125.png)
+
 
 
 
